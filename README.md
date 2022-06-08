@@ -8,7 +8,7 @@ This is a cobol script, so it will need to be compiled. For testing purposes, Op
 Usage of this program can be leveraged to determine the age difference between two individuals. It can also be used to dtermine the age range of potential partners. Finaly, it can also be used to snark a ton of reality shows running on TLC. 
 
 ## Support
-Current, no further updates are planned at this time.
+Currently, no further updates are planned at this time.
 
 ## Authors
 Just me :)
