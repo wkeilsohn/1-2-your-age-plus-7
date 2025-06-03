@@ -22,7 +22,7 @@
        PROCEDURE DIVISION.
 
        MAIN-PARA.
-       PERFORM SELECTION-PARA UNTIL USER-END = 1.
+           PERFORM SELECTION-PARA UNTIL USER-END = 1.
            STOP RUN.
 
        SELECTION-PARA.
@@ -59,6 +59,7 @@
                AGEFORMAT1, " to ", AGEFORMAT2.
 
        CALC-ACCEPT-PARA.
+           DISPLAY USER-END.
            DISPLAY "PLEASE ENTER THE FIRST PERSON'S AGE: " WITH NO 
            ADVANCING.
            ACCEPT PAGE1.
@@ -83,5 +84,6 @@
            ELSE
                DISPLAY "THESE PEOPLE DO NOT MEET THE RULE."
            END-IF.
+
 
        STOP RUN.
