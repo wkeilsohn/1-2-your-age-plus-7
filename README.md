@@ -7,10 +7,15 @@ I realized that the actual Cobol script was not uploaded to the repository. Thus
 If I ever figure out what happened to the old script, I'll include it in a seperate file. 
 
 ## Installation and Setup
-This is a cobol script, so it will need to be compiled. For testing purposes, OpenCobol was used on a Linux Unbutu machine. Once compiled, it should be able to run from the comand line. 
+This is a cobol script, so it may need to be compiled. If you need to compile the code, I used gnuCobol and MinGW on Windows. That said, OpenCobol on a Linux or IOS system should also work.
+
+The executable file has been included, which may allow you to run it straight from the command line on a Windows machine. 
 
 ## Usage
-Usage of this program can be leveraged to determine the age difference between two individuals. It can also be used to dtermine the age range of potential partners. Finaly, it can also be used to snark on a ton of reality shows running on TLC. 
+Usage of this program can be leveraged to determine the age difference between two individuals.
+It can also be used to determine the age range of potential partners for oneself. 
+
+Finaly, as a joke, it can also be used to snark on a ton of reality shows running on TLC. 
 
 ## Support
 Currently, no further updates are planned at this time.
